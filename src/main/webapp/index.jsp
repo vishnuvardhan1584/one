@@ -208,6 +208,10 @@
             <h3>AWS Infrastructure Automation</h3>
             <p>Automated EC2 instance provisioning and application deployment using Terraform and CFT</p>
         </div>
+<div class="project">
+<h3>Riders relief</h3>
+<p>app to help rr ngo in hyderabad</p>
+</div>
     </section>
 
     <section id="contact" class="contact">
